@@ -8,12 +8,12 @@ import time,random,sys,json,codecs,threading,glob,re,ast,os,subprocess,requests
 
 cl = LINETCR.LINE() #
 #cl.login(qr=True)
-cl.login(token="EnvemTPs8Qa2YKbBuVA0.B7g9A1RW8NU9Ui7lAHrOWa.P9dilyizvd39lOy91f1hSk22KHV+2vPWgWHEa2g3Spc=")#1
+cl.login(token="EnC4WWaxlvwEmc7dcSP0.4CtAvksI2snhv2NVBSkYCa.K9u0pjo345g+5fss46dtUTn+LjHxqViO//X6+CKT0Ro=")#1
 cl.loginResult()
 
 ki = LINETCR.LINE() #
 #ki.login(qr=True)
-ki.login(token="EnC4WWaxlvwEmc7dcSP0.4CtAvksI2snhv2NVBSkYCa.K9u0pjo345g+5fss46dtUTn+LjHxqViO//X6+CKT0Ro=")#2
+ki.login(token="EnvemTPs8Qa2YKbBuVA0.B7g9A1RW8NU9Ui7lAHrOWa.P9dilyizvd39lOy91f1hSk22KHV+2vPWgWHEa2g3Spc=")#2
 ki.loginResult()
 
 kk = LINETCR.LINE() #
@@ -298,9 +298,9 @@ parameterMap={}
 contactIds=[]
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,Smid1]
 induk=[mid]
-Creator=["u5baffcc81a0a0689982216a005cfc70b"]
-admin=["u5baffcc81a0a0689982216a005cfc70b",mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,Smid1] #Krisna,kris,
-owner=["u5baffcc81a0a0689982216a005cfc70b"]
+Creator=["ufdf94db84c8d1fa665976c9eed50c8dd"]
+admin=["ufdf94db84c8d1fa665976c9eed50c8dd",mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,Smid1] #Krisna,kris,
+owner=["ufdf94db84c8d1fa665976c9eed50c8dd"]
 wait = {
     'contact':False,
     'autoJoin':True,
