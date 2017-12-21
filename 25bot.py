@@ -389,8 +389,8 @@ targets = []
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,Jmid,Kmid,Lmid,Mmid,Nmid,Omid,Pmid,Qmid,Rmid,Smid,Tmid,Umid,Vmid,Wmid]
 induk=[mid]
 Creator=["u5baffcc81a0a0689982216a005cfc70b","u246cb4d9c8a981d4299b7ef16cad49d9"]
-admin=["u5baffcc81a0a0689982216a005cfc70b","u9cc2323f5b84f9df880c33aa9f9e3ae1",mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,Jmid,Kmid,Lmid,Mmid,Nmid,Omid,Pmid,Qmid,Rmid,Smid,Tmid,Umid,Vmid,Wmid] #i̺͆y̺͆o̺͆😎na,i̺͆y̺͆o̺͆😎,
-owner=["u5baffcc81a0a0689982216a005cfc70b","u9cc2323f5b84f9df880c33aa9f9e3ae1"]
+admin=["u5baffcc81a0a0689982216a005cfc70b","u246cb4d9c8a981d4299b7ef16cad49d9",mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,Jmid,Kmid,Lmid,Mmid,Nmid,Omid,Pmid,Qmid,Rmid,Smid,Tmid,Umid,Vmid,Wmid] #i̺͆y̺͆o̺͆😎na,i̺͆y̺͆o̺͆😎,
+owner=["u5baffcc81a0a0689982216a005cfc70b","u246cb4d9c8a981d4299b7ef16cad49d9"]
 wait = {
     'contact':False,
     'autoJoin':True,
